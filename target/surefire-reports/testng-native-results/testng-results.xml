@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="61" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="61" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+      <class name="SaiMavenProject.MavenJava.APITest">
+        <test-method status="PASS" signature="apiAutomation()[pri:0, instance:SaiMavenProject.MavenJava.APITest@20322d26]" name="apiAutomation" duration-ms="5" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiAutomation -->
+        <test-method status="PASS" signature="triggerServiceCalls()[pri:0, instance:SaiMavenProject.MavenJava.APITest@20322d26]" name="triggerServiceCalls" duration-ms="1" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- triggerServiceCalls -->
+      </class> <!-- SaiMavenProject.MavenJava.APITest -->
+      <class name="SaiMavenProject.MavenJava.appiumTest">
+        <test-method status="PASS" signature="appsInUi()[pri:0, instance:SaiMavenProject.MavenJava.appiumTest@192b07fd]" name="appsInUi" duration-ms="1" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appsInUi -->
+        <test-method status="PASS" signature="appiumMobileAutomation()[pri:0, instance:SaiMavenProject.MavenJava.appiumTest@192b07fd]" name="appiumMobileAutomation" duration-ms="0" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumMobileAutomation -->
+      </class> <!-- SaiMavenProject.MavenJava.appiumTest -->
+      <class name="SaiMavenProject.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:SaiMavenProject.MavenJava.SeleniumTest@64bfbc86]" name="browserAutomation" duration-ms="0" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="uiElements()[pri:0, instance:SaiMavenProject.MavenJava.SeleniumTest@64bfbc86]" name="uiElements" duration-ms="0" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiElements -->
+      </class> <!-- SaiMavenProject.MavenJava.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

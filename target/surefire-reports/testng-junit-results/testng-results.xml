@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="100" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="100" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+      <class name="SaiMavenProject.MavenJava.AppTest">
+        <test-method status="PASS" signature="testApp()" name="testApp" duration-ms="45" started-at="2020-09-02T10:37:00 CDT" finished-at="2020-09-02T10:37:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- SaiMavenProject.MavenJava.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
